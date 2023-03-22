@@ -1,0 +1,29 @@
+h1 {
+    color: blue; text-align: center;
+    text-shadow: 2px 2px 5px blue;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:aliceblue;
+}
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+body {
+    background-color:lavender;
+}
+div {
+    text-align:center;
+    text-indent: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background-color:cornflowerblue;
+}
+img:hover {
+    
+        display: inline-block;
+        margin: 0 0.5rem;
+      
+        animation: bounce; /* Starts the bounce when hovered over */
+        animation-duration: 2s; /* bounces to a duration of 2s  */
+      
+
+}
